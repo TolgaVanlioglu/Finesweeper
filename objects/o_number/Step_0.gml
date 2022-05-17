@@ -1,0 +1,1 @@
+if(y > o_starter.draw_centery*2) instance_destroy();

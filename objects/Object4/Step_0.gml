@@ -1,0 +1,1 @@
+image_index = keyboard_check(vk_anykey);

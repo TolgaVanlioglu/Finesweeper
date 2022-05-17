@@ -1,0 +1,9 @@
+restart
+new game
+theme
+darkmode
+animation
+sounds
+
+T N R A
+D     S

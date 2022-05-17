@@ -1,0 +1,1 @@
+bg_mode = irandom(4);
